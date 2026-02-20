@@ -1,0 +1,7 @@
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\bin\Debug\2.CondicionalesSimples.exe.config
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\bin\Debug\2.CondicionalesSimples.exe
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\bin\Debug\2.CondicionalesSimples.pdb
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\obj\Debug\2.CondicionalesSimples.csproj.AssemblyReference.cache
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\obj\Debug\2.CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\obj\Debug\2.CondicionalesSimples.exe
+C:\FerneyChica\FundamentosProgramacionM12\2.CondicionalesSimples\2.CondicionalesSimples\obj\Debug\2.CondicionalesSimples.pdb
