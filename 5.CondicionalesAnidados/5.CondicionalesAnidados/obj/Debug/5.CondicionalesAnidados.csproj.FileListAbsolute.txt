@@ -1,0 +1,7 @@
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe.config
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.pdb
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.exe
+C:\FerneyChica\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.pdb
